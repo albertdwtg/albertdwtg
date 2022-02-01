@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ## My stats on GitHub
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=albertdwtg&show_icons=true&theme=dark)](https://github.com/albertdwtg/github-readme-stats)
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Languages and tools:  
 
